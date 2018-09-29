@@ -3,7 +3,7 @@ let http = require('http'),
     schedule = require('node-schedule');
 var server = http.createServer();
 // var notified_id = []; // 通知済みID
-var notify_time = 12 * 60 * 60 * 1000; // 通知時間(ミリ秒前)
+var notify_time = 7 * 24 * 60 * 60 * 1000; // 通知時間(ミリ秒前)
 
 // 環境変数
 const ANNICT_URL = process.env.ANNICT_URL;
