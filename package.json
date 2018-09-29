@@ -1,0 +1,24 @@
+{
+    "name": "heroku-nodejs-test",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/derodero24/heroku-nodejs-test.git"
+    },
+    "author": "derodero",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/derodero24/heroku-nodejs-test/issues"
+    },
+    "homepage": "https://github.com/derodero24/heroku-nodejs-test#readme",
+    "dependencies": {
+        "node-schedule": "^1.3.0",
+        "request": "^2.88.0"
+    }
+}

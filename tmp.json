@@ -1,0 +1,150 @@
+{
+    "programs": [{
+        "id": 92598,
+        "started_at": "2018-08-25T15:00:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "はたらくさいぼう"
+        },
+        "episode": {
+            "number_text": "第8話"
+        }
+    }, {
+        "id": 92605,
+        "started_at": "2018-08-25T15:30:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "ぺるそなふぁいぶじあにめーしょん"
+        },
+        "episode": {
+            "number_text": "#21"
+        }
+    }, {
+        "id": 92591,
+        "started_at": "2018-08-26T14:30:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "あそびあそばせ"
+        },
+        "episode": {
+            "number_text": "第8話"
+        }
+    }, {
+        "id": 92658,
+        "started_at": "2018-08-26T15:00:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "はねばど"
+        },
+        "episode": {
+            "number_text": "第9話"
+        }
+    }, {
+        "id": 92752,
+        "started_at": "2018-08-27T16:40:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "やまのすすめ"
+        },
+        "episode": {
+            "number_text": "第9話"
+        }
+    }, {
+        "id": 92312,
+        "started_at": "2018-08-29T16:35:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "しゅたいんずげーとぜろ"
+        },
+        "episode": {
+            "number_text": "#19"
+        }
+    }, {
+        "id": 92890,
+        "started_at": "2018-08-29T16:35:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "しゅたいんずげーとぜろ"
+        },
+        "episode": {
+            "number_text": "#20"
+        }
+    }, {
+        "id": 93139,
+        "started_at": "2018-09-01T15:00:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "はたらくさいぼう"
+        },
+        "episode": {
+            "number_text": "第9話"
+        }
+    }, {
+        "id": 93100,
+        "started_at": "2018-09-01T15:30:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "ぺるそなふぁいぶじあにめーしょん"
+        },
+        "episode": {
+            "number_text": "#22"
+        }
+    }, {
+        "id": 93093,
+        "started_at": "2018-09-02T14:30:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "あそびあそばせ"
+        },
+        "episode": {
+            "number_text": "第9話"
+        }
+    }, {
+        "id": 93206,
+        "started_at": "2018-09-02T15:00:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "はねばど"
+        },
+        "episode": {
+            "number_text": "第10話"
+        }
+    }, {
+        "id": 93260,
+        "started_at": "2018-09-03T16:40:00.000Z",
+        "channel": {
+            "name": "TOKYO MX"
+        },
+        "work": {
+            "title_kana": "やまのすすめ"
+        },
+        "episode": {
+            "number_text": "第10話"
+        }
+    }],
+    "total_count": 12,
+    "next_page": null,
+    "prev_page": null
+}
