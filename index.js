@@ -9,7 +9,7 @@ var notify_time = 12 * 60 * 60 * 1000; // 通知時間(ミリ秒前)
 const ANNICT_URL = process.env.ANNICT_URL;
 const ANNICT_TOKEN = process.env.ANNICT_TOKEN;
 const IFTTT_CLOVA = process.env.IFTTT_CLOVA;
-const IFTTT_FIREBASE = process.env.IFTTT_FIREBASE;
+// const IFTTT_FIREBASE = process.env.IFTTT_FIREBASE;
 
 var count = 0;
 
@@ -63,15 +63,15 @@ function notify(body) {
 function send_trigger(message) {
     /*IFTTTにトリガー送信*/
     // Firebase 書き換え
-    request.post({
-        url: IFTTT_FIREBASE,
-        headers: {
-            'content-type': 'application/json'
-        },
-        body: JSON.stringify({
-            'value1': message
-        })
-    }, function(error, response, body) {});
+    // request.post({
+    //     url: IFTTT_FIREBASE,
+    //     headers: {
+    //         'content-type': 'application/json'
+    //     },
+    //     body: JSON.stringify({
+    //         'value1': message
+    //     })
+    // }, function(error, response, body) {});
 
     // 通知内容がなければClova通知は無し
     if (message == '') {
